@@ -1,1 +1,3 @@
-# WhatsappChatApplication
+**# WhatsappChatApplication**
+
+A WhatsApp Chat Analysis Application built using Python and Machine Learning is designed to analyze and derive insights from WhatsApp conversation data. This project typically involves extracting chat data from WhatsApp's exported text files and using libraries like Pandas and NLP (Natural Language Processing) techniques to clean, process, and analyze the data. Features can include sentiment analysis, keyword extraction, and chat statistics( most active participants, peak chat times, word frequencies). Machine learning models can be implemented to detect patterns such as emotional tone or classify messages into categories like queries, responses, or general conversations.
